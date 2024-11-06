@@ -131,7 +131,7 @@ kbd {
 	background-color: #ddd;
 	padding: 4px 6px;
 	border-radius: 2px;
-	color: ;
+	color: white;
 }
 
 address {
@@ -313,11 +313,11 @@ button:focus {
 .mu-app-download-area {
 	display: inline;
 	float: left;
-	margin-top: 50px;
+	margin-top: 20px;
 	width: 100%;
 }
 
-.mu-app-download-area h4 {
+.mu-app-download-area-h4 {
 	color: #fff;
 	font-size: 18px;
 	font-weight: 300;
@@ -713,10 +713,6 @@ button:focus {
 	display: block;
 }
 
-.mu-video-iframe-area iframe {
-
-}
-
 
 
 /*--------------------*/
@@ -745,9 +741,6 @@ button:focus {
 	width: 100%;
 }
 
-.mu-apps-screenshot-slider {
-
-}
 
 .mu-single-screeshot {
 	padding: 0 10px;
