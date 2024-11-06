@@ -908,16 +908,15 @@ button:focus {
 }
 
 .mu-contact-right {
-	display: inline;
-	float: left;
+	float: right;
 	width: 100%;
-	margin-top: 10px;
+	margin-top: 20px;
 	padding-left: 15px;
+	align-content: center;
 }
 
 .mu-contact-right-single {
-	display: inline;
-	float: left;
+	float: right;
 	margin-bottom: 35px;
 	width: 100%;
 }
