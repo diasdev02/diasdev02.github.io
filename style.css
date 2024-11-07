@@ -275,10 +275,10 @@ button:focus {
 /*=== Featured section ===*/
 
 .mu-header-featured-area {
-	display: inline;
-	float: left;
-	padding: 50px 0;
+	padding: 12%;
+	float: center;
 	width: 100%;
+	margin-bottom: 5%;
 }
 
 .mu-header-featured-img {
@@ -289,16 +289,16 @@ button:focus {
 
 .mu-header-featured-content {
 	display: inline;
-	float: right;
-	margin-top: 200px;
+	float: center;
+	margin-top: 10%;
 	text-align: center;
-	width: 60%;
+	width: 70%;
 }
 
 .mu-header-featured-content h1 {
 	font-size: 45px;
 	color: #fff;
-	font-weight: 300;
+	font-weight: 100;
 	margin-bottom: 15px;
 }
 
@@ -333,7 +333,6 @@ button:focus {
     display: inline-block;
     margin: 0 10px;
     padding: 11px 22px;
-    text-transform: uppercase;
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     transition: all 0.5s;
@@ -495,7 +494,7 @@ button:focus {
 .mu-feature-area {
 	display: inline;
 	float: left;
-	padding: 100px 0;
+	padding: 5% 0;
 	width: 100%;
 }
 
