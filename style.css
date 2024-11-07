@@ -216,15 +216,6 @@ button:focus {
 /* HEADER */
 /*--------------------*/
 
-#mu-header {
-	background-image: url("assets/images/header-bg.jpg");
-	display: inline;
-	float: left;
-	width: 100%;
-	background-position: center center;
-	background-attachment: fixed;
-}
-
 .mu-header-overlay {
 	display: inline;
 	float: left;
@@ -234,13 +225,14 @@ button:focus {
 
 .mu-logo-area {
 	display: inline;
-	float: center;
+	align-self: center;
 	width: 100%;
 }
 
 .mu-logo {
 	color: #fff;
 	font-size: 45px;
+	align-self: center;
 	display: inline-block;
 	font-weight: 700;
 	margin-top: 35px;
@@ -544,16 +536,16 @@ button:focus {
 .mu-feature-content {
 	background-color: #fff;
 	display: inline;
-	float: center;
+	text-align: center;
 	margin-top: 30px;
-	width: 100%;
+	width: 60%;
 }
 
 .mu-feature-content-right {
 	display: inline;
 	float: center;
 	margin-top: 30px;
-	width: 100%;
+	width: 60%;
 }
 
 .mu-feature-content-right .media-left {
@@ -1193,7 +1185,7 @@ button:focus {
 
 	.mu-logo {
 		margin-top: 25px;
-		float: none;
+		text-align: center;
 	}
 
 	.mu-logo img {
