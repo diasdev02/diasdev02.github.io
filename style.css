@@ -224,8 +224,7 @@ button:focus {
 }
 
 .mu-logo-area {
-	display: inline;
-	align-self: center;
+	text-align: center;
 	width: 100%;
 }
 
