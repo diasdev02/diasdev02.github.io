@@ -37,7 +37,7 @@ body {
 	font-size: 15px;
 	letter-spacing: 0.5px;
 	line-height: 1.5;
-	color: #1c1b1b;
+	color: #fff;
 }
 
 ul {
@@ -485,7 +485,7 @@ button:focus {
 .mu-feature-area {
 	display: inline;
 	float: left;
-	padding: 5% 0;
+	padding: 15% 0;
 	width: 100%;
 }
 
@@ -493,12 +493,12 @@ button:focus {
 	display: inline;
 	float: left;
 	text-align: center;
-	padding: 0 120px;
+	padding: 30px 60px;
 	width: 100%;
 }
 
 .mu-title {
-	color: #1c1b1b;
+	color: #ffffff;
 	margin-bottom: 15px;
 	padding: 0;
 	z-index: 10;
